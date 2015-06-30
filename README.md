@@ -1,6 +1,8 @@
 Switching-to-BitBucket
 ======================
 
+###### Update 6/30/15: I am stopping the avoiding-GitHub policy for the time being. Partly because of [similar concerns about BitBucket](http://www.cultureoffset.org/), and partly because I have reason to believe GitHub may be taking some important steps to better the situation. I am leaving this repo up because I still think that awareness of these issues is important, and for the time being I will still not be using any for-pay GitHub services until I believe measurable progress is made on their part.
+
 I have made the decision to move my repositories to [BitBucket](https://bitbucket.org/neurodynamic/), because some of the decisions that have been made by the GitHub team are, I feel, reason to believe that their corporate culture is actively harmful to the tech community as a whole. I am keeping my account here active, because it is not unlikely I may need this account to contribute to projects that only exist on GitHub in the future, but I will not be contributing any money to GitHub, will be avoiding hosting my own repositories here where possible, and will be encouraging others to make similar switches to other services where possible in the future.
 
 Further reading:
